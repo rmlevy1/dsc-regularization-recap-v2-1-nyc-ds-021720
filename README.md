@@ -3,7 +3,7 @@
 
 ## Key Takeaways 
 
-- Regularization discourages overly complex models by penalizing the loss function 
+- Regularization discourages overly complex models by penalizing the loss function.
 - Lasso and Ridge are two commonly used so-called regularization techniques 
 - In Ridge regression, the cost function is changed by adding a penalty term to the square of the magnitude of the coefficients 
 - Ridge regression is often also referred to as L2 Norm Regularization 
